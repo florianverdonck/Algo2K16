@@ -23,6 +23,7 @@ public class Vol {
 	public Coordonnees[] getTableCoordonnees() {
 		return tableCoordonnees;
 	}
+	
 
 
 
@@ -49,6 +50,10 @@ public class Vol {
 				
 			}
 		return coordonneesMax;
+	}
+	
+	public Coordonnnees lieuExtreme(){
+		
 	}
 
 	
